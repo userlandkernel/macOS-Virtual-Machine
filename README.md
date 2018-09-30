@@ -58,6 +58,22 @@ I can imagine more people would like to organize their environments like that, t
   ZZ1JK-82G56-H894P-HYZNE-MV2YD  
   ZG7NH-82Y06-08DZZ-KDQET-Y6KE0  
   UY750-DQXD5-48D0Z-PEY79-YAKWF  
+  AF70K-DNWEQ-H8DPY-0XN7X-MCAUA   
+  YF5XA-62G0P-48EDP-U4WEG-YPKZF  
+  YZ35U-4PED5-M881Z-87WEV-NY2XA   
+  FC382-DFDDL-4801Q-KNYNT-YVAR6  
+  GA18K-DRXE3-488TZ-J4ZNX-PZAXA  
+  FF590-2DX83-M81LZ-XDM7E-MKUT4  
+  5A02H-AU243-TZJ49-GTC7K-3C61N  
+  AG18A-6HD5P-0811P-ADXNV-Z7KD6  
+  ZZ7XU-4QX5Q-M80GP-ZWPZC-P6UVA  
+  CF7DR-F7Y0Q-M8EFZ-RZWQX-QP8Y4  
+  CA710-6JZEH-H80GP-Z4W5V-QQHT2  
+  GZ5EK-69G03-085EY-PWZNX-YG2V2  
+  AZ10A-DXWD5-H89UZ-QMNG9-M2RY8  
+  AU3R2-6VX12-H8DVP-K5P5V-QC0GF  
+  
+  I do not support piracy, but if you cannot afford a product and solely use it for educational purposes I don't see the problem.
   
 - Download the vmdk of Sierra at https://goo.gl/pBVDXz
 - Download the VMWare Patch tools at https://goo.gl/bZsv5f
