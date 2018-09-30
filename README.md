@@ -15,6 +15,7 @@ I can imagine more people would like to organize their environments like that, t
 - For the best VM usage, disable unnecessary Windows animations, C:\Windows\System32\SystemPropertiesPerformance.exe
 - You will need to have a license key for VMWare Workstation.
 - Here are some licenses that can be used.
+
   YA3JU-AWY9P-M882Z-2PX79-WCRE8  
   5A02H-AU243-TZJ49-GTC7K-3C61N  
   VZ1XR-66GEM-H899Q-35P59-P688A  
@@ -52,10 +53,15 @@ I can imagine more people would like to organize their environments like that, t
   MU20T-8X15J-RZYY9-QH07M-1270P  
   NG63J-4KLD1-HZP49-P8CQM-12Q2J  
   NV6EA-21K8L-NZ6M8-P19Q0-CCL0Q  
+  
   4F4W7-6624N-CZVN0-03AQ0-03TPR 
+  
   YY31H-DTZE7-489WP-9GPX9-PZUY6
+  
   ZZ1JK-82G56-H894P-HYZNE-MV2YD
+  
   ZG7NH-82Y06-08DZZ-KDQET-Y6KE0
+  
   UY750-DQXD5-48D0Z-PEY79-YAKWF
   
 - Download the vmdk of Sierra at https://goo.gl/pBVDXz
